@@ -59,7 +59,7 @@ Clone this repository on own GitHub account and deploy to Netlify:
 
 Deploy this Next JS Boilerplate on Vercel in one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Flucky-chap%2stickly)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Flucky-chap%2Fstickly)
 
 
 ### License
