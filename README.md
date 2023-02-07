@@ -1,4 +1,4 @@
-## Stickyly
+## Stickly
 
 ### Features
 
